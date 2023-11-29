@@ -1,0 +1,3 @@
+ID: 0, название : car
+ID: 0, название : white steamer
+ID: 3, название : masha doll
